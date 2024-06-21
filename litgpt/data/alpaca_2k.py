@@ -7,6 +7,8 @@ from pathlib import Path
 from litgpt.data import SFTDataset
 from litgpt.data.alpaca import Alpaca
 
+import light_hf_proxy
+
 
 @dataclass
 class Alpaca2k(Alpaca):

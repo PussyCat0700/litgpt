@@ -122,7 +122,7 @@ pip install 'litgpt[all]'
 Install from source:
 
 ```bash
-git clone https://github.com/Lightning-AI/litgpt
+git clone(https://github.com/PussyCat0700/litgpt
 cd litgpt
 pip install -e '.[all]'
 ```
